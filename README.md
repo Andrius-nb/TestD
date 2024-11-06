@@ -7,3 +7,4 @@ T muốn mày làm:
 -Hạn chế dùng AI nha. Cái này dễ nhưng nếu mày dùng AI thì đến lúc làm việc thật là vô phương cứu chữa ấy
 Thời gian thì dự án này không tính giai đoạn nghiệm thu thì t làm trong 22 ngày nên mày sẽ có 25 ngày từ ngày 7/11/2006
 Note: Nhắc t mai cho mày coi bản beta trước khi hoàn thành nghiệm thu để mày có góc nhìn dễ về ứng dụng nếu cần
+Cái barcode-2d-demo là source gốc của thiết bị này, làm hẳn trên đó nhen 
